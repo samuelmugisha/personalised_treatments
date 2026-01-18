@@ -1,4 +1,6 @@
->python pk.py -dateFrom="'Feb 01, 2018'" -dateTo="'Feb 28, 2018'" -patientID="1" -threshold="1" -VOD="3" -halfLife="4" -outputPath="C:\Users\sammi\Desktop\pk" -connectionString="DRIVER={ODBC Driver 13 for SQL Server};SERVER=.\SQLEXPRESS;PORT=1433;UID=sa;PWD=solveXsoft"
+#code to run in the terminal: Replace path to your file, UID and PWD
+
+>python pk.py -dateFrom="'Feb 01, 2018'" -dateTo="'Feb 28, 2018'" -patientID="1" -threshold="1" -VOD="3" -halfLife="4" -outputPath="C:\Users\sammi\Desktop\pk" -connectionString="DRIVER={ODBC Driver 13 for SQL Server};SERVER=.\SQLEXPRESS;PORT=1433;UID=user;PWD=pass"
 
 
 python pk.py -dateFrom="'Oct 01, 2008'" -dateTo="'Oct 28, 2008'" -patientID="129" -threshold="1" -VOD="3" -halfLife="4" -outputPath="C:\Users\sammi\Documents\personalised_healthcare" -connectionString="DRIVER={ODBC Driver 13 for SQL Server};SERVER=.\MYSERVER;Trusted_Connection=yes;Database=Haemtrack"
