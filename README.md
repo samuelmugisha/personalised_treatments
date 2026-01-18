@@ -37,3 +37,11 @@ to chronic diseases and potentially saving time, money and lives.
 - Euclidean distance
 - Time series
 - Dynamic time warping
+
+**Key learnings:**
+- Time-series analysis
+- Python
+- SQL
+- Bash/Cmd scripts
+- Basic Pharmacokinetics
+
