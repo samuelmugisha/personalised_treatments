@@ -1,6 +1,6 @@
 # Model to improve adherence to medications in Haemophiliac patients
 A parametrized model which takes as input a discrete set of temporal treatments from a database and produces a time series of pharmacokinetic curves representing drug concentration in the body. 
-<img src = "report/haemophilia.jpg">
+<img src = "report/haemophilia.jpg" style="float:center;width:640px;height:320px;">
 
 **Background:**
 Poor adherence to treatment of chronic diseases is a global problem of
