@@ -10,26 +10,31 @@ etc. do not account for the pharmacokinetic properties of drugs in the body, hen
 misrepresent the true therapeutic exposure. Improving the effectiveness of treatment
 adherence measures saves lives, time and money.
 
-**Methods:** We have implemented a system to model the pharmacokinetics of drugs
+**Methods:** <br>
+- Implemented a system to model the pharmacokinetics of drugs
 taken by patients (with particular relevance to haemophilia) and ranked patients according
-to adherence from a defined therapeutic threshold. Data were obtained from
-Haemtrack; a patient diary system used by patients in the UK. We have implemented
-and compared ranking algorithms based on manhattan and euclidean distance, and Dynamic
+to adherence from a defined therapeutic threshold.
+- Data was obtained from
+Haemtrack; a patient diary system used by patients in the UK.
+- Implemented and compared ranking algorithms based on manhattan and euclidean distance, and Dynamic
 Time Warping.
 
-**Results:** A list of patients, ranked by their adherence according to their euclidean
-and manhattan distance was obtained. The same patient listing was obtained using the
-Dynamic Time warping algorithm; this consistency of order acts as informal validation
-of the ranking. Health professionals could be prompted by email at predefined intervals
+**Results:** <br>
+- A list of patients, ranked by their adherence according to their euclidean
+and manhattan distance was obtained.
+- The same patient listing was obtained using the Dynamic Time warping algorithm; this consistency of order acts as informal validation
+of the ranking.
+- Health professionals could be prompted by email at predefined intervals
 informing them of non-adherent patients.
 
-**Conclusion:** The proposed adherence measure captured pharmacokinetic properties
-of the drug and the patient drug-taking behavior. Patients were ranked according to
-their adherence and health professionals could be prompted by email notifying them of
+**Conclusion:** <br>
+- The proposed adherence measure captured pharmacokinetic properties
+of the drug and the patient drug-taking behavior.
+- Patients were ranked according to their adherence and health professionals could be prompted by email notifying them of
 non-adherent patients, improving monitoring of patient adherence especially as regards
 to chronic diseases and potentially saving time, money and lives.
 
-**Key Terms:**
+**Key Terms:** <br>
 - Adherence
 - Pharmacokinetics
 - Drug therapy
