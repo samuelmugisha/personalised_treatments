@@ -2,7 +2,7 @@
 A parametrized model which takes as input a discrete set of temporal treatments from a database and produces a time series of pharmacokinetic curves representing drug concentration in the body. 
 <img src = "report/haemophilia.jpg" style="float:center;width:640px;height:320px;">
 
-**Background:**
+**Business problem:** <br>
 Poor adherence to treatment of chronic diseases is a global problem of
 striking magnitude. There is no gold standard for measuring treatment adherence. Traditional
 medication adherence measures, for instance, pill counts, self-patient reports,
